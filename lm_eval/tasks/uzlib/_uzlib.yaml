@@ -1,0 +1,9 @@
+group: uzlib
+task:
+  - uzlib_correct_word
+  - uzlib_meaning
+  - uzlib_meaning_in_context
+  - uzlib_fill_in
+aggregate_metric_list:
+  - metric: acc
+    weight_by_size: True

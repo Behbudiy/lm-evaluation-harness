@@ -1,0 +1,4 @@
+task: uzlib_meaning
+task_alias: meaning
+test_split: meaning
+include: _default_template_yaml

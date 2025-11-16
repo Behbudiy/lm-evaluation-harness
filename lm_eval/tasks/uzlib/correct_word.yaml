@@ -1,0 +1,4 @@
+task: uzlib_correct_word
+task_alias: correct_word
+test_split: correct_word
+include: _default_template_yaml

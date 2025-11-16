@@ -1,0 +1,4 @@
+task: uzlib_fill_in
+task_alias: fill_in
+test_split: fill_in
+include: _default_template_yaml
