@@ -1,0 +1,5 @@
+include: _flores_plus_common_yaml
+task: flores_plus_uz_en
+task_alias: uz_en
+doc_to_text: !function utils.flores_plus_doc_to_text_uz_en
+doc_to_target: !function utils.flores_plus_doc_to_target_uz_en

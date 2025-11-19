@@ -1,0 +1,6 @@
+group: flores_plus_uz
+task:
+  - flores_plus_uz_en
+  - flores_plus_en_uz
+  - flores_plus_uz_ru
+  - flores_plus_ru_uz

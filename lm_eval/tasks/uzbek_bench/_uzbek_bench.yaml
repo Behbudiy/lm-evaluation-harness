@@ -1,0 +1,4 @@
+group: uzbek_bench
+task:
+  - uzlib
+  - flores_plus_uz
